@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronewa Nemalili</h1>
+<h1 align="center">Hello 👋, I'm Ronewa Nemalili</h1>
 <h3 align="center">Data and Analytics, Machine Learning, Deep Neural Network</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collen1&label=Profile%20views&color=0e75b6&style=flat" alt="collen1" /> </p>
@@ -9,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nronewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nronewa" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/ronewa-nemalili-680a65ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronewa-nemalili-680a65ba/" height="30" width="40" /></a>
+  <a href="https://twitter.com/nronewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nronewa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
